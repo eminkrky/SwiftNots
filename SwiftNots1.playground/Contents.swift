@@ -7,7 +7,7 @@ var krediDurumu:Bool = false // krediDurumu adında bir boolean değişkeni olu�
 
 isim.append(" karakaya") // isim değişkenine " karakaya" ekleniyor.
 isim=isim.uppercased() // isim değişkeninin tüm harfleri büyük harfe çevriliyor.
-tcno = 10101010101 // tcno değişkenine 57682195272 değeri atanıyor.
+tcno = 10101010101 // tcno değişkenine 10101010101 değeri atanıyor.
 
 print("İsim ",isim) // isim değişkeninin değeri ekrana yazdırılıyor.
 print("Tc ",tcno) // tcno değişkeninin değeri ekrana yazdırılıyor.
